@@ -28,6 +28,7 @@ class CISConverter:
 
     garbage_list = [
         '| P a g e'
+        ''
     ]
 
     modes = [
